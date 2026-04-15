@@ -1,5 +1,9 @@
 # GLOBAL AI AND DATA SCIENCE JOBS ANALYSIS: TRENDS, SKILLS DEMAND, AND SALARY INSIGHTS
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adedotun08/GLOBAL_AI_AND_DATA_SCIENCE_JOBS_ANALYSIS/refs/heads/main/Introductory%20Picture.jpg" width="900"/>
+</p>
+
 
 ## INTRODUCTION
 The rapid growth of Artificial Intelligence and Data Science has transformed the global job market, creating high demand for skilled professionals across industries. This project explores global job trends in AI and Data Science by analyzing key factors such as job roles, required skills, salary distribution, and hiring patterns.
@@ -32,7 +36,12 @@ This project aims to bridge that gap by analyzing real-world job data to identif
 
 
 ## Visualization
-To interact with the dashboard, click here:  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adedotun08/GLOBAL_AI_AND_DATA_SCIENCE_JOBS_ANALYSIS/refs/heads/main/Dashboard.jpg" width="900"/>
+</p>
+
+To interact with the dashboard, [click here](https://raw.githubusercontent.com/Adedotun08/GLOBAL_AI_AND_DATA_SCIENCE_JOBS_ANALYSIS/refs/heads/main/Dashboard.jpg) 
 
 
 ## Insights
