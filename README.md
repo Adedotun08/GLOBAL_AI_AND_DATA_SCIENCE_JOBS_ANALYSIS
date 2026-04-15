@@ -1,20 +1,10 @@
 # GLOBAL AI AND DATA SCIENCE JOBS ANALYSIS: TRENDS, SKILLS DEMAND, AND SALARY INSIGHTS
 
+
 ## INTRODUCTION
 The rapid growth of Artificial Intelligence and Data Science has transformed the global job market, creating high demand for skilled professionals across industries. This project explores global job trends in AI and Data Science by analyzing key factors such as job roles, required skills, salary distribution, and hiring patterns.
 The goal of this analysis is to uncover actionable insights that can guide aspiring professionals, recruiters, and organizations in making data-driven career and hiring decisions.
 
-# AI & Data Science Jobs Market Analysis
-
-## Table of Contents
-- About the Dataset
-- Problem Statement
-- Visualization
-- Insights
-- Recommendation
-- Conclusion
-
----
 
 ## About the Dataset
 The dataset consists of over 10,000 job listings in the AI and Data Science domain, covering multiple countries and industries. It provides a comprehensive view of the global AI and Data Science job landscape.
@@ -30,7 +20,6 @@ Key features include:
 - Job posting timeline (month and year)
 - Hiring urgency and number of openings
 
----
 
 ## Problem Statement
 Despite the growing interest in AI and Data Science careers, many professionals lack clarity on:
@@ -41,12 +30,10 @@ Despite the growing interest in AI and Data Science careers, many professionals 
 
 This project aims to bridge that gap by analyzing real-world job data to identify patterns, trends, and opportunities in the industry.
 
----
 
 ## Visualization
 To interact with the dashboard, click here:  
 
----
 
 ## Insights
 From the analysis, several key insights emerged:
@@ -72,7 +59,6 @@ A significant portion of roles are marked as high urgency, indicating a talent s
 ### 6. Job Openings
 Most listings have multiple openings (average ≈ 5), reinforcing strong demand for talent.
 
----
 
 ## Recommendation
 
@@ -90,7 +76,6 @@ Most listings have multiple openings (average ≈ 5), reinforcing strong demand 
 - Align curriculum with industry-relevant skills, especially ML and Cloud technologies
 - Emphasize hands-on, project-based learning
 
----
 
 ## Conclusion
 This analysis highlights the strong global demand for AI and Data Science professionals, driven by rapid technological advancement and digital transformation across industries.
